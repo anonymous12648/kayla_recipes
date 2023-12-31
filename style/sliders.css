@@ -1,0 +1,8 @@
+* {
+	background:#ffc670;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	line-height: 1.7;
+}
+ul li {
+	list-style-type: '⇒  ';
+}

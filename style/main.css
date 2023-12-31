@@ -1,0 +1,36 @@
+* {
+	background-color: #ddccff;
+	font-family: 'Century Gothic', sans-serif;
+	line-height: 2;
+	background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/christmas-colour.png);
+}
+html {
+	height: 100%;
+}
+h1 {
+	color: #00000;
+}
+.columns {
+	display: flex;
+	gap: 2rem;
+	list-style: none;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+.columns > * {
+}
+li {
+	background: #faaa98;
+	padding: 25px;
+	margin-bottom: 100px;
+}
+a:link {
+	background: none;
+	color: #e0c0eb;
+}
+a:visited {
+	color:#7fb37f;
+}
+a:hover {
+	color: #65256e;
+}
